@@ -13,5 +13,8 @@
 <a href="NC_Paper/2021_BrainScience_The Impact of Sex on the Neurocognitive Functions of Patients with Parkinson’s Disease.pdf" class="image fit">PDF</a>
 
 
+## List of Thesis Books:
+- Reekes, Tyler Harrison. Contributions to Cognitive Dysfunctions in Neurodegenerative Disease. Diss. Louisiana State University Health Sciences Center-Shreveport, 2022.
+- <a href="NC_Paper/Theis_2022_LSU_Contributions to Cognitive Dysfunctions in Neurodegenerative Disease.pdf" class="image fit">PDF</a>
 
 
