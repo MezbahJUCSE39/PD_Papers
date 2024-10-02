@@ -1,7 +1,7 @@
 # PD_Papers
 Contains the papers related to PD
 
-# Papers and other documents on relation of Neurocognitive functions with others in Parkinson's Disease
+## Papers and other documents on relation of Neurocognitive functions with others in Parkinson's Disease
 
 ## List of Papers:
 1. 2024 Chang, Chia-Wen, et al. "__GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease__." Journal of Neurology (2024): 1-14. <a href="NC_Paper/2024_JournalOfneurology_GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease.pdf">PDF</a>
@@ -21,7 +21,7 @@ Contains the papers related to PD
   <a href="NC_Paper/Theis_2022_LSU_Contributions to Cognitive Dysfunctions in Neurodegenerative Disease.pdf" class="image fit">PDF</a>
 
 
-# Papers and other documents on ML and Parkinson's Disease
+## Papers and other documents on ML and Parkinson's Disease
 
 ## List of Papers:
 1. 2022, Makarious, Mary B., et al. "Multi-modality machine learning predicting Parkinson’s disease." npj Parkinson's Disease 8.1 (2022): 35. <a href="ML-PD/2022_npjPD_Multi-modality machine learning predicting Parkinson’s disease.pdf">PDF</a>
@@ -29,7 +29,7 @@ Contains the papers related to PD
 
 
 
-# Papers and other documents on Images and Parkinson's Disease
+## Papers and other documents on Images and Parkinson's Disease
 
 ## List of Papers:
 1. 2021 Almuqhim, Fahad, and Fahad Saeed. "ASD-SAENet: a sparse autoencoder, and deep-neural network model for detecting autism spectrum disorder (ASD) using fMRI data." Frontiers in Computational Neuroscience 15 (2021): 654315. <a href="Image_PD_Papers/2021_Frontier_ComputationalNeuroScience_ASD-SAENet A Sparse Autoencoder, and Deep-Neural Network Model for Detecting Autism Spectrum Disorder (ASD) Using fMRI Data.pdf">PDF</a>
