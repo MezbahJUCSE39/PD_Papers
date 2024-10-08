@@ -12,6 +12,8 @@
 5. 2021 Chen, M.-L. __The Impact of Sex on the Neurocognitive Functions of Patients with Parkinson’s Disease__. Brain Sci. 2021, 11, 1331. 
 <a href="NC_Paper/2021_BrainScience_The Impact of Sex on the Neurocognitive Functions of Patients with Parkinson’s Disease.pdf" class="image fit">PDF</a>
 
+## List of Review Articles:
+1. 2023, Marafioti, Giulia, et al. "REM Sleep Behavior Disorder and Cognitive Functions in Parkinson’s Patients: A Systematic Review." Journal of Clinical Medicine 12.23 (2023): 7397. <a href="NC_Paper/_Review_2023_ClinicalMedicine_Marafioti, Giulia, et al. REM Sleep Behavior Disorder and Cognitive Functions in Parkinson’s Patients- A Systematic Review. Journal of Clinical Medicine 12.23 (2023)- 7397.pdf" class="image fit">PDF</a>
 
 ## List of Thesis Books:
 - Reekes, Tyler Harrison. __Contributions to Cognitive Dysfunctions in Neurodegenerative Disease__. Diss. Louisiana State University Health Sciences Center-Shreveport, 2022.
