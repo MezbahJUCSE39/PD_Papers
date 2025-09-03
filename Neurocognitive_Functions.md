@@ -1,7 +1,6 @@
 # Papers and other documents on relation of Neurocognitive functions with others in Parkinson's Disease
 
 ## List of Papers:
-1. 2025, Jon Rodriguez-Antiguedad et al, Genotype–Phenotype Relations for the Dystonia-Parkinsonism Genes GLB1, SLC6A3, SLC30A10, SLC39A14, and PLA2G6 - MDSGene Systematic Review. International Journal of Molecular Science <a href="NC_Paper/2025_Genotype–Phenotype Relations for the Dystonia-Parkinsonism Genes GLB1, SLC6A3, SLC30A10, SLC39A14, and PLA2G6 - MDSGene Systematic Review.pdf">PDF</a>
 
 1. 2024 Chang, Chia-Wen, et al. "__GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease__." Journal of Neurology (2024): 1-14. <a href="NC_Paper/2024_JournalOfneurology_GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease.pdf">PDF</a>
 
@@ -15,7 +14,9 @@
 <a href="NC_Paper/2021_BrainScience_The Impact of Sex on the Neurocognitive Functions of Patients with Parkinson’s Disease.pdf">PDF</a>
 
 ## List of Review Articles:
-1. 2023, Marafioti, Giulia, et al. "__REM Sleep Behavior Disorder and Cognitive Functions in Parkinson’s Patients: A Systematic Review.__" Journal of Clinical Medicine 12.23 (2023): 7397. <a href="NC_Paper/_Review_2023_ClinicalMedicine_Marafioti, Giulia, et al. REM Sleep Behavior Disorder and Cognitive Functions in Parkinson’s Patients- A Systematic Review. Journal of Clinical Medicine 12.23 (2023)- 7397.pdf">PDF</a>
+1. 1. 2025, Jon Rodriguez-Antiguedad et al, Genotype–Phenotype Relations for the Dystonia-Parkinsonism Genes GLB1, SLC6A3, SLC30A10, SLC39A14, and PLA2G6 - MDSGene Systematic Review. International Journal of Molecular Science <a href="NC_Paper/2025_Genotype–Phenotype Relations for the Dystonia-Parkinsonism Genes GLB1, SLC6A3, SLC30A10, SLC39A14, and PLA2G6 - MDSGene Systematic Review.pdf">PDF</a>
+
+2. 2023, Marafioti, Giulia, et al. "__REM Sleep Behavior Disorder and Cognitive Functions in Parkinson’s Patients: A Systematic Review.__" Journal of Clinical Medicine 12.23 (2023): 7397. <a href="NC_Paper/_Review_2023_ClinicalMedicine_Marafioti, Giulia, et al. REM Sleep Behavior Disorder and Cognitive Functions in Parkinson’s Patients- A Systematic Review. Journal of Clinical Medicine 12.23 (2023)- 7397.pdf">PDF</a>
 
 ## List of Thesis Books:
 - Reekes, Tyler Harrison. __Contributions to Cognitive Dysfunctions in Neurodegenerative Disease__. Diss. Louisiana State University Health Sciences Center-Shreveport, 2022.

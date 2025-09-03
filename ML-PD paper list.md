@@ -1,7 +1,11 @@
 # Papers and other documents on ML and Parkinson's Disease
 
 ## List of Papers:
+
+1. 2024, Raziyeh Mohammadi, et al. "__ML for early detection of cognitive decline in PD using Multimodal clinical data.__" Brain 147.3 (2024): 887-899. <a href="ML-PD/2024_ML for early detection of cognitive decline in PD using Multimodal clinical data.pdf">PDF</a>
+
 1. 2024, Yu, Eric, et al. "__Machine learning nominates the inositol pathway and novel genes in Parkinson’s disease.__" Brain 147.3 (2024): 887-899. <a href="ML-PD/2024_BRAIN_Machine learning nominates the inositol pathway and novel genes in Parkinson’s disease.pdf">PDF</a>
+
 2.  2022, Makarious, Mary B., et al. "__Multi-modality machine learning predicting Parkinson’s disease.__" npj Parkinson's Disease 8.1 (2022): 35. <a href="ML-PD/2022_npjPD_Multi-modality machine learning predicting Parkinson’s disease.pdf">PDF</a>
 
 ## Review Papers:
