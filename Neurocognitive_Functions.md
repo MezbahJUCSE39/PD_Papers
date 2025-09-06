@@ -13,7 +13,7 @@
 5. 2021 Chen, M.-L. __The Impact of Sex on the Neurocognitive Functions of Patients with Parkinson’s Disease__. Brain Sci. 2021, 11, 1331. 
 <a href="NC_Paper/2021_BrainScience_The Impact of Sex on the Neurocognitive Functions of Patients with Parkinson’s Disease.pdf">PDF</a>
 
-6. 2020, Movement Disorders, Tan et al, Genome‐Wide Association Studies of Cognitive and Motor Progression in Parkinson's Disease. <a href="NC_Paper/2020_Movement Disorders - 2020 - Tan - Genome‐Wide Association Studies of Cognitive and Motor Progression in Parkinson s Disease.pdf">PDF</a> 
+6. 2020, Movement Disorders, Tan et al, <span style="color:red">**Genome‐Wide Association Studies of Cognitive and Motor Progression in Parkinson's Disease.**  </span><a href="NC_Paper/2020_Movement Disorders - 2020 - Tan - Genome‐Wide Association Studies of Cognitive and Motor Progression in Parkinson s Disease.pdf">PDF</a> 
 
 ## List of Review Articles:
 1. 1. 2025, Jon Rodriguez-Antiguedad et al, Genotype–Phenotype Relations for the Dystonia-Parkinsonism Genes GLB1, SLC6A3, SLC30A10, SLC39A14, and PLA2G6 - MDSGene Systematic Review. International Journal of Molecular Science <a href="NC_Paper/2025_Genotype–Phenotype Relations for the Dystonia-Parkinsonism Genes GLB1, SLC6A3, SLC30A10, SLC39A14, and PLA2G6 - MDSGene Systematic Review.pdf">PDF</a>
