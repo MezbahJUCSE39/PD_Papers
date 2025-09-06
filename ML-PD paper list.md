@@ -2,6 +2,7 @@
 
 ## List of Papers:
 
+1. 2025, Chengqun, A Seven-Gene Signature for the Diagnosis of Parkinson’s Disease and Immune Infiltration Analysis, Twin Research and Human Genetics. <a href="ML-PD/2025_Twin Research and Human Genetics_A Seven-Gene Signature for the Diagnosis of Parkinson’s Disease and Immune Infiltration Analysis.pdf">PDF</a>
 1. 2024, Raziyeh Mohammadi, et al. "__ML for early detection of cognitive decline in PD using Multimodal clinical data.__" Brain 147.3 (2024): 887-899. <a href="ML-PD/2024_ML for early detection of cognitive decline in PD using Multimodal clinical data.pdf">PDF</a>
 
 1. 2024, Yu, Eric, et al.  🟥 "__Machine learning nominates the inositol pathway and novel genes in Parkinson’s disease.__" Brain 147.3 (2024): 887-899. <a href="ML-PD/2024_BRAIN_Machine learning nominates the inositol pathway and novel genes in Parkinson’s disease.pdf">PDF</a>
