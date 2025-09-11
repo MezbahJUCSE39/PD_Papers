@@ -8,7 +8,7 @@
 
 3. 2023 González-Usigli, Héctor Alberto, et al. "__Neurocognitive psychiatric and neuropsychological alterations in Parkinson’s disease: a basic and clinical approach__." Brain Sciences 13.3 (2023): 508. <a href="NC_Paper/2023_BrainScience_Neurocognitive Psychiatric and Neuropsychological Alterations in Parkinson’s Disease A Basic and Clinical Approach.pdf">PDF</a>
 
-4. 2023 Rahman, Md Asad, and Jinling Liu. "__A genome-wide association study coupled with machine learning approaches to identify influential demographic and genomic factors underlying Parkinson’s disease.__" Frontiers in Genetics 14 (2023): 1230579. <a href="NC_Paper/2023_ComputationalGenomics_A genome-wide association study coupled with machine learning approaches to identify influential demographic and genomic factors underlying Parkinson’s disease.pdf">PDF</a>
+4. 2023 Rahman, Md Asad, and Jinling Liu. 🟥 "__A genome-wide association study coupled with machine learning approaches to identify influential demographic and genomic factors underlying Parkinson’s disease.__" Frontiers in Genetics 14 (2023): 1230579. <a href="NC_Paper/2023_ComputationalGenomics_A genome-wide association study coupled with machine learning approaches to identify influential demographic and genomic factors underlying Parkinson’s disease.pdf">PDF</a>
 
 5. 2022 Yu, Ya-Wen, et al. "__A new instrument combines cognitive and social functioning items for detecting mild cognitive impairment and dementia in Parkinson’s disease__." Frontiers in Aging Neuroscience 14 (2022): 913958. <a href="NC_Paper/2022_FrontiersInAginNeuroscience_A New Instrument Combines Cognitive and Social Functioning Items for Detecting Mild Cognitive Impairment and Dementia in Parkinson’s Disease.pdf">PDF</a>
 
