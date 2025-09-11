@@ -2,7 +2,7 @@
 
 ## List of Papers:
 
-1. 2025, Adebimpe et al., Current Research in Translational Medicine, Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models. <a href="ML-PD/2025_Current Research in Translational Medicine_Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.pdf">PDF</a>
+1. 2025, Adebimpe et al., Current Research in Translational Medicine, **Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.** <a href="ML-PD/2025_Current Research in Translational Medicine_Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.pdf">PDF</a>
 
 2. 2024 Chang, Chia-Wen, et al. "__GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease__." Journal of Neurology (2024): 1-14. <a href="NC_Paper/2024_JournalOfneurology_GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease.pdf">PDF</a>
 
