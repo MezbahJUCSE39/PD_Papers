@@ -12,7 +12,7 @@
 
 ## Review Papers:
 1. 2024, Keserwani, et al. "__A comparative study: prediction of parkinson’s disease using machine learning, deep learning and nature inspired algorithm.__" Multimedia Tools and Applications (2024): 1-49. <a href="ML-PD/_Review_2024_A comparative study prediction of parkinson’s disease using machine learning, deep learning and nature inspired algorithm.pdf">PDF</a>
-
+2. 2025, AI in Health, Gunjan et al., Artificial intelligence and biomarker approachesfor Parkinson’s disease detection. <a href="ML-PD/_Review_2025_AI in Health_Artificial intelligence and biomarker approachesfor Parkinson’s disease detection.pdf">PDF</a>
 
 
 
