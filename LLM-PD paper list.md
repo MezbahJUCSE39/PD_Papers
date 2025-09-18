@@ -6,7 +6,8 @@
 
 
 
-## Review Papers:
+## Learning Source:
+1. Aug 2025, Carlos,  🟥 **LLM Fine‑Tuning in 2025: A Hands‑On, Test‑Driven Blueprint**, ACAI. <a href="https://medium.com/%40tabers77/llm-fine-tuning-in-2025-a-hands-on-test-driven-blueprint-dd1c7887bb99">Link</a>
 
 
 
