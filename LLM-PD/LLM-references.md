@@ -4,5 +4,6 @@
 2. LLM Fine‑Tuning in 2025: A Hands‑On, Test‑Driven Blueprint. <a href="https://medium.com/%40tabers77/llm-fine-tuning-in-2025-a-hands-on-test-driven-blueprint-dd1c7887bb99">Link</a>
 3. Fine-Tuning LLMs: A Guide With Examples <a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">Link</a>
 4. Generative AI Fine Tuning LLM Models Crash Course <a href="https://www.youtube.com/watch?v=t-0s_2uZZU0">Youtube Link</a>
+5. The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs <a href="https://arxiv.org/html/2408.13296v1">Link</a>
 
 
