@@ -6,5 +6,6 @@
 4. Generative AI Fine Tuning LLM Models Crash Course <a href="https://www.youtube.com/watch?v=t-0s_2uZZU0">Youtube Link</a>
 5. The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs <a href="https://arxiv.org/html/2408.13296v1">Link</a>
 6. LLM Engineering - Master AI and LLMs <a href="https://github.com/ed-donner/llm_engineering">Udemy Github</a>
+7. LLM Engineering - Resources <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">Udemy Github</a>
 
 
