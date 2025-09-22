@@ -1,0 +1,6 @@
+# LLM learning
+
+## Three dimensions of LLM
+1. Models: Open-source, Closed-source, Multi-modal, Architecture, Selecting
+2. Tools: HuggingFace, LangChain, Gradio, Weight and Biases, Modal
+3. Techniques: API, Multi-shot prompting, RAGs, Fine-tuning, Agentization
