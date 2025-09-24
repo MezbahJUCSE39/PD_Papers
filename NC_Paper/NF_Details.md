@@ -14,4 +14,9 @@
    c.  9   -   11    moderate
 
    d.  12 -   15    severe
- 
+
+ ## MDS-UPDRS Part I & II
+ 1. <a href="https://www.movementdisorders.org/MDS-Files1/PDFs/Rating-Scales/MDS-UPDRS_English_FINAL.pdf"> MDS-UPDRS Questions </a> Part I: Non-motor experiences (e.g., “Cognitive impairment,” “Hallucinations and psychosis,” “Depressed mood,” “Sleep problems”). Part II: Motor aspects of daily living (e.g., “Speech,” “Saliva and drooling,” “Dressing,” “Handwriting,” “Freezing”).
+
+ ## QUIP
+ 1. <a href="https://blackfynn-ppmi-schema.readthedocs-hosted.com/en/stable-documentation-branch/_static/screenshots/1.0/QUIPCS.pdf"> QUIP Questions </a> Screens for behaviors like gambling, shopping, eating, sexual behavior, punding, hobbyism, walkabout. Items are phrased as Yes/No and frequency questions.
