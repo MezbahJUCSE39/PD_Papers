@@ -1,4 +1,4 @@
 # The deatils link of several NF measurement tools are provided below
 ## EPWorth Sleepiness 
-1. <a href="https://epworthsleepinessscale.com/about-the-ess/">Epworth Sleepiness Scale </a>
+1. <a href="https://epworthsleepinessscale.com/about-the-ess/">Epworth Sleepiness Scale </a> The ESS is a self-administered questionnaire with 8 questions. Respondents are asked to rate, on a 4-point scale (0-3), their usual chances of dozing off or falling asleep while engaged in eight different activities. Most people engage in those activities at least occasionally, although not necessarily every day. The ESS score (the sum of 8 item scores, 0-3) can range from 0 to 24. The higher the ESS score, the higher that person’s average sleep propensity in daily life (ASP), or their ‘daytime sleepiness’. The questionnaire takes no more than 2 or 3 minutes to answer. It is available in many different languages.
 
