@@ -27,5 +27,5 @@
  ## SCOPA-AUT
  1. <a href="NC_Assessments/SCOPA-AUT.pdf"> SCOPA-AUT Questions </a> 23 questions across domains: gastrointestinal, urinary, cardiovascular, thermoregulation, pupillomotor, sexual function (e.g., “Have you had difficulty swallowing?” “Have you fainted when standing up?”).
 
- ## SCOPA-AUT
- 1. <a href="NC_Assessments/SCOPA-AUT.pdf"> SCOPA-AUT Questions </a>
+ ## State-Trait Anxiety
+ 1. <a href="https://global-uploads.webflow.com/651a053c342015fefc668f5d/651a053d342015fefc66b5d3_State-Trait%20Anxiety%20Inventory%20(Form%20Y)%20Sample.pdf"> State-Trait Anxiety for Adults </a> Two domains — state anxiety (how you feel “right now”) and trait anxiety (how you feel “generally”). Items are rated 1–4 (e.g., “I feel calm,” “I worry too much over something that really doesn’t matter”).
