@@ -23,3 +23,9 @@
 
  ## Rapid Eye Movement Sleep Disorder
  1. <a href="https://movementdisorders.onlinelibrary.wiley.com/doi/epdf/10.1002/mds.21740"> REM Sleep Disorder Questions </a> 10 Yes/No items about dream enactment behaviors (e.g., “Do you have vivid dreams?” “Do you shout or move your arms/legs during sleep?”).
+
+ ## SCOPA-AUT
+ 1. <a href="NC_Assessments/SCOPA-AUT.pdf"> SCOPA-AUT Questions </a> 23 questions across domains: gastrointestinal, urinary, cardiovascular, thermoregulation, pupillomotor, sexual function (e.g., “Have you had difficulty swallowing?” “Have you fainted when standing up?”).
+
+ ## SCOPA-AUT
+ 1. <a href="NC_Assessments/SCOPA-AUT.pdf"> SCOPA-AUT Questions </a>
