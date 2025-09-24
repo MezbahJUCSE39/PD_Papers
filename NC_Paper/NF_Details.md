@@ -6,8 +6,8 @@
 1. <a href="https://web.stanford.edu/~yesavage/GDS.html">Geriatric Depression Scale </a> This scale was developed as a basic screening measure for depression in older adults. This test has 15-item GDS questions. no intepretation of results, but you all know that patients with scores higher than 5 should be interviewed carefully. This service is provided to you by Dr. Yesavage of VA Palo Alto Health Care System.
 2. <a href="https://web.stanford.edu/~yesavage/GDS.english.short.html"> Short form </a>
 3. <a href="http://www.medafile.com/GDS15.htm"> Live test form </a> (GDS  maximum score = 15)
-      0   -     4    normal, depending on age, education, complaints
-      5   -     8    mild
-      9   -   11    moderate
-      12 -   15    severe
+     a. 0   -     4    normal, depending on age, education, complaints
+     b.  5   -     8    mild
+     c.  9   -   11    moderate
+     d.  12 -   15    severe
  
