@@ -45,3 +45,13 @@ Word list learning — patient hears a list of 12 nouns from 3 semantic categori
 1. <a href="https://blackfynn-ppmi2-curation.readthedocs-hosted.com/en/stable-documentation-branch/_static/screenshots/2.0/LNSPD.pdf"> LNS Questions </a>:
 Patient repeats a series of numbers and letters in a specific order: numbers in ascending order, letters in alphabetical order. Tests working memory.
 
+## MDS-UPDRS III 
+1. <a href="https://www.movementdisorders.org/MDS-Files1/PDFs/Rating-Scales/MDS-UPDRS_English_FINAL.pdf"> MDS-UPDRS Questions </a> Part III: Clinician-rated exam of motor symptoms: speech, facial expression, tremor, rigidity, finger tapping, hand movements, toe tapping, gait, posture, postural stability, bradykinesia.
+
+## Modified Semantic Fluency Test (MSF)
+1. <a href="https://blackfynn-ppmi-schema.readthedocs-hosted.com/en/stable-documentation-branch/_static/screenshots/1.0/MSEMFL.pdf"> MSF Questions </a> 
+
+## Montreal Cognitive Assessment (MoCA)
+1. <a href="https://championsforhealth.org/wp-content/uploads/2018/12/MOCA-8.1.8.2-English.pdf"> MoCA Questions </a>: 30-point screening across visuospatial/executive, naming, memory, attention, language, abstraction, delayed recall, orientation.
+
+
