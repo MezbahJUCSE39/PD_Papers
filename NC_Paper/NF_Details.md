@@ -23,7 +23,7 @@
  1. <a href="https://blackfynn-ppmi-schema.readthedocs-hosted.com/en/stable-documentation-branch/_static/screenshots/1.0/QUIPCS.pdf"> QUIP Questions </a>: Screens for behaviors like gambling, shopping, eating, sexual behavior, punding, hobbyism, walkabout. Items are phrased as Yes/No and frequency questions.
 
  ## Rapid Eye Movement Sleep Disorder
- 1. <a href="https://movementdisorders.onlinelibrary.wiley.com/doi/epdf/10.1002/mds.21740"> REM Sleep Disorder Questions </a>: 10 Yes/No items about dream enactment behaviors (e.g., “Do you have vivid dreams?” “Do you shout or move your arms/legs during sleep?”).
+ 1. <a href="NC_Assessments/The REM sleep behavior disorder screening questionnaire.pdf"> REM Sleep Disorder Questions </a>: 10 Yes/No items about dream enactment behaviors (e.g., “Do you have vivid dreams?” “Do you shout or move your arms/legs during sleep?”).
 
  ## SCOPA-AUT
  1. <a href="NC_Assessments/SCOPA-AUT.pdf"> SCOPA-AUT Questions </a>: 23 questions across domains: gastrointestinal, urinary, cardiovascular, thermoregulation, pupillomotor, sexual function (e.g., “Have you had difficulty swallowing?” “Have you fainted when standing up?”).
