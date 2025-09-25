@@ -54,4 +54,5 @@ Patient repeats a series of numbers and letters in a specific order: numbers in 
 ## Montreal Cognitive Assessment (MoCA)
 1. <a href="https://championsforhealth.org/wp-content/uploads/2018/12/MOCA-8.1.8.2-English.pdf"> MoCA Questions </a>: 30-point screening across visuospatial/executive, naming, memory, attention, language, abstraction, delayed recall, orientation.
 
-
+## Symbol Digit Modalities Test (SDMT)
+1. <a href="https://www.scribd.com/document/513478838/Digit-Symbol-Substitution-Test"> SDMT Questions </a>: Patients use a key of symbol-digit pairs to fill in digits corresponding to a sequence of symbols as quickly as possible (processing speed).
