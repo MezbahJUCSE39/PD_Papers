@@ -6,6 +6,10 @@
 
 2. 2024 Chang, Chia-Wen, et al. "__GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease__." Journal of Neurology (2024): 1-14. <a href="NC_Paper/2024_JournalOfneurology_GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease.pdf">PDF</a>
 
+3. 2024, Ingoo Lee, et al., __A genotype-phenotype transformer to assess and explain polygenic risk__. biorxiv, <a href="NC_Paper/2024_biorxiv_Ingoo Lee_A genotype-phenotype transformer to assess and explain polygenic risk.pdf">PDF</a>
+
+2024_biorxiv_Ingoo Lee_A genotype-phenotype transformer to assess and explain polygenic risk.pdf
+
 3. 2023 González-Usigli, Héctor Alberto, et al. "__Neurocognitive psychiatric and neuropsychological alterations in Parkinson’s disease: a basic and clinical approach__." Brain Sciences 13.3 (2023): 508. <a href="NC_Paper/2023_BrainScience_Neurocognitive Psychiatric and Neuropsychological Alterations in Parkinson’s Disease A Basic and Clinical Approach.pdf">PDF</a>
 
 4. 2023 Rahman, Md Asad, and Jinling Liu. 🟥 "__A genome-wide association study coupled with machine learning approaches to identify influential demographic and genomic factors underlying Parkinson’s disease.__" Frontiers in Genetics 14 (2023): 1230579. <a href="NC_Paper/2023_ComputationalGenomics_A genome-wide association study coupled with machine learning approaches to identify influential demographic and genomic factors underlying Parkinson’s disease.pdf">PDF</a>
