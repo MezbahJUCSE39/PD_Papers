@@ -7,5 +7,7 @@
 5. The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs <a href="https://arxiv.org/html/2408.13296v1">Link</a>
 6. LLM Engineering - Master AI and LLMs <a href="https://github.com/ed-donner/llm_engineering">Udemy Github</a>
 7. LLM Engineering - Resources <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">Udemy Github</a>
+8. Prompt engineering by Google - <a href="https://gptaiflow.com/assets/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf"> Link </a>
+9. 
 
 
