@@ -11,5 +11,9 @@
 5. 2019, Sarthak, et al, **Attention is not Explanation**, NAACL-HLT. <a href="PD_Papers/Transformer-PD/Transformer
 /2019_Sarthak_NAACL-HLT_Attention is not Explanation.pdf">PDF</a>
 
+## TabNet References
+1. https://medium.com/@kdk199604/tabnet-a-deep-learning-breakthrough-for-tabular-data-bcd39c47a81c
+2. 
+
 
 
