@@ -7,6 +7,9 @@
 5. 2019, Sarah, et al, **Attention is not not Explanation**, 2019 Conference on Empirical Methods in Natural Language Processing. <a href="Transformer-PD/Transformer/2019_Sarah_EMNLP_Attention is not not Explanation.pdf">PDF</a>
 6. 2019, Sarthak, et al, **Attention is not Explanation**, NAACL-HLT. <a href="Transformer-PD/Transformer/2019_Sarthak_NAACL-HLT_Attention is not Explanation.pdf">PDF</a>
 
+## Review Papers
+1. 2024, Yongjie Wang, et al., **Gradient based Feature Attribution in Explainable AI: A Technical Review**, arxiv <a href="https://arxiv.org/html/2403.10415v1 ">PDF</a>
+
 ## TabNet References
 1. https://medium.com/@kdk199604/tabnet-a-deep-learning-breakthrough-for-tabular-data-bcd39c47a81c
 2. 
