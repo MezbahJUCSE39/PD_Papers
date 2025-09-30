@@ -1,17 +1,11 @@
 # Transformer Papers
 ## List of Papers
-1. 2025, Haewon, et al., **Explainable hybrid tabular Variational Autoencoder and feature Tokenizer Transformer for depression prediction**, Expert Systems with Applications <a href="Transformer-PD/Transformer
-/2025_Haewon_Expert Systems with Applications_Explainable hybrid tabular Variational Autoencoder and feature Tokenizer Transformer for depression prediction.pdf">PDF</a>
-2. 2021, Yury, et al,  🟥 **Revisiting Deep Learning Models for Tabular Data**, ACAI. <a href="Transformer-PD/Transformer
-/2021_Yorish et al_NeuroIPS_Revisiting Deep Learning Models for Tabular Data.pdf">PDF</a>
-3. 2020, Xin Huang, et al, **TabTransformer: Tabular Data Modeling Using Contextual Embeddings**, ACAI. <a href="Transformer-PD/Transformer
-/2020_arXiv_TabTransformer_Tabular_Data_Modeling_Using_Context.pdf">PDF</a>
-4. 2017, Sundararajan, et al, **Axiomatic Attribution for Deep Networks**, ACAI. <a href="Transformer-PD/Transformer
-/2017_Sundararajan_ICML_Axiomatic Attribution for Deep Networks.pdf">PDF</a>
-5. 2019, Sarah, et al, **Attention is not not Explanation**, 2019 Conference on Empirical Methods in Natural Language Processing. <a href="Transformer-PD/Transformer
-/2019_Sarah_EMNLP_Attention is not not Explanation.pdf">PDF</a>
-6. 2019, Sarthak, et al, **Attention is not Explanation**, NAACL-HLT. <a href="Transformer-PD/Transformer
-/2019_Sarthak_NAACL-HLT_Attention is not Explanation.pdf">PDF</a>
+1. 2025, Haewon, et al., **Explainable hybrid tabular Variational Autoencoder and feature Tokenizer Transformer for depression prediction**, Expert Systems with Applications <a href="Transformer-PD/Transformer/2025_Haewon_Expert Systems with Applications_Explainable hybrid tabular Variational Autoencoder and feature Tokenizer Transformer for depression prediction.pdf">PDF</a>
+2. 2021, Yury, et al,  🟥 **Revisiting Deep Learning Models for Tabular Data**, ACAI. <a href="Transformer-PD/Transformer/2021_Yorish et al_NeuroIPS_Revisiting Deep Learning Models for Tabular Data.pdf.pdf">PDF</a>
+3. 2020, Xin Huang, et al, **TabTransformer: Tabular Data Modeling Using Contextual Embeddings**, ACAI. <a href="Transformer-PD/Transformer/2020_arXiv_TabTransformer_Tabular_Data_Modeling_Using_Context.pdf">PDF</a>
+4. 2017, Sundararajan, et al, **Axiomatic Attribution for Deep Networks**, ACAI. <a href="Transformer-PD/Transformer/2017_Sundararajan_ICML_Axiomatic Attribution for Deep Networks.pdf">PDF</a>
+5. 2019, Sarah, et al, **Attention is not not Explanation**, 2019 Conference on Empirical Methods in Natural Language Processing. <a href="Transformer-PD/Transformer/2019_Sarah_EMNLP_Attention is not not Explanation.pdf">PDF</a>
+6. 2019, Sarthak, et al, **Attention is not Explanation**, NAACL-HLT. <a href="Transformer-PD/Transformer/2019_Sarthak_NAACL-HLT_Attention is not Explanation.pdf">PDF</a>
 
 ## TabNet References
 1. https://medium.com/@kdk199604/tabnet-a-deep-learning-breakthrough-for-tabular-data-bcd39c47a81c
