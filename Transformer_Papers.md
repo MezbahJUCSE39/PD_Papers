@@ -10,7 +10,7 @@
 ## Review Papers
 1. 2024, Yongjie Wang, et al., **Gradient based Feature Attribution in Explainable AI: A Technical Review**, arxiv <a href="https://arxiv.org/html/2403.10415v1 ">PDF</a>
 
-##Other fields
+## Other fields
 1. Electrical, 2025, **Transformer with Explainable AI A Synergistic Approach to Smart Grid Stability Analysis** <a href="Transformer-PD/Transformer/2025_Transformer_with_Explainable_AI_A_Synergistic_Approach_to_Smart_Grid_Stability_Analysis.pdf">PDF</a>
 
 ## TabNet References
