@@ -22,7 +22,6 @@
 
 ## TabNet References
 1. https://medium.com/@kdk199604/tabnet-a-deep-learning-breakthrough-for-tabular-data-bcd39c47a81c
-2. 
 
 
 
