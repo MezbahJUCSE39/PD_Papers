@@ -11,9 +11,10 @@
 
 ## Review Papers
 1. 2024, Yongjie Wang, et al., **Gradient based Feature Attribution in Explainable AI: A Technical Review**, arxiv <a href="https://arxiv.org/html/2403.10415v1 ">PDF</a>
+2. 2024, SHRIYANK, et al., **A Survey on Deep Tabular Learning**, arxiv <a href="Transformer-PD/Transformer/2024_SHRIYANK_A Survey on Deep Tabular Learning.pdf">PDF</a>
 
 ## Thesis
-1. 2024, Terth., **Deep Learning with Tabular Data - A Self-supervised Approach.pdf**, arxiv <a href="_Thesis_2014_Deep Learning with Tabular Data - A Self-supervised Approach.pdf">PDF</a>
+1. 2024, Terth., **Deep Learning with Tabular Data - A Self-supervised Approach.pdf**, arxiv <a href="Transformer-PD/Transformer/_Thesis_2014_Deep Learning with Tabular Data - A Self-supervised Approach.pdf">PDF</a>
 
 
 ## Other fields
