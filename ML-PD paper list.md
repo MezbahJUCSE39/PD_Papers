@@ -3,7 +3,7 @@
 ## List of Papers:
 
 1. 2025, Jhicheng et al., **Multimodal machine learning for Parkinson’s disease diagnosis and genetic subtyping**, Health and Technology <a href="ML-PD/2025_Jhicheng_Health and technology_Multimodal machine learning for Parkinson’s disease diagnosis and genetic subtyping.pdf">PDF</a>
-2. 2025, Adebimpe et al., 🟥 **Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models**, Current Research in Translational Medicine. <a href="ML-PD/2025_Current Research in Translational Medicine_Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.pdf">PDF</a>
+2. 2025, Adebimpe et al., 🟥 **Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models**, Current Research in Translational Medicine. <a href="ML-PD/2025_Current Research in Translational Medicine_Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.pdf">PDF</a> <a href="https://drive.google.com/file/d/1KdKbneSVtUdZclYTLOkh7iF5abe0n4FO/view?usp=sharing">Google Drive</a> 
 3. 2025, Chengqun, A Seven-Gene Signature for the Diagnosis of Parkinson’s Disease and Immune Infiltration Analysis, Twin Research and Human Genetics. <a href="ML-PD/2025_Twin Research and Human Genetics_A Seven-Gene Signature for the Diagnosis of Parkinson’s Disease and Immune Infiltration Analysis.pdf">PDF</a>
 4. 2024, Raziyeh Mohammadi, et al. "__ML for early detection of cognitive decline in PD using Multimodal clinical data.__" Brain 147.3 (2024): 887-899. <a href="ML-PD/2024_ML for early detection of cognitive decline in PD using Multimodal clinical data.pdf">PDF</a>
 
