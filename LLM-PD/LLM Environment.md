@@ -26,6 +26,7 @@
           --no-browser → avoids opening a browser on the remote machine.
           --port=8888 → use any free port (e.g., 8888, 8890, 9000, etc.).
           > jupyter.log 2>&1 & → redirect logs to jupyter.log and run in background.
+          
      Access Link: http://pearl:8800/tree?token=8730791be4e82dff30b8bfb80e5c0d4d21c53f870ca863eb
 
 ## To deactivate an active environment, use
