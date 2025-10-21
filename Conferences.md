@@ -1,4 +1,10 @@
-# Conference upcoming
+# Conference upcoming: <a href="https://www.isca-hq.org/isca.php?p=Conferences"> Link1 </a> <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187455"> Link2 </a>
+
+## 18th International Conference on Bioinformatics and Computational Biology (BICOB'26), March 23 - 25, 2026, Honolulu, Hawaii, USA <a href="https://sceweb.sce.uhcl.edu/bicob26/"> Important Dates Link </a>
+1. Paper Submission Deadline: November 30, 2025
+2. Notification of Acceptance: January 20, 2026
+3. Paper submission site: https://meteor.springer.com/BICOB
+4. Conference Proceedings: accepted papers will be published in Springer (Springer CCIS series)
 
 ## 2026 14th International Conference on Bioinformatics and Computational Biology (ICBCB 2026), Kitakyushu, Japan <a href="https://www.icbcb.org/index.html"> Important Dates Link </a>
 1. Submission Deadline: Oct. 30, 2025
