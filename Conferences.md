@@ -1,4 +1,12 @@
 # Conference upcoming
+
+## 2026 14th International Conference on Bioinformatics and Computational Biology (ICBCB 2026) <a href="https://www.icbcb.org/index.html"> Important Dates Link </a>
+Submission Deadline: Oct. 30, 2025
+Notification Date: Nov. 20, 2025
+Camera-Ready Paper: Dec. 10, 2025
+Registration Deadline: Dec. 10, 2025
+Conference Dates: Mar. 26-29, 2026
+
 ## The 14th IEEE International Conference on Healthcare Informatics <a href="https://zhang-informatics.github.io/ICHI2026/"> Link </a>
 1. __June 1–4, 2026 · Minneapolis, MN__
 2. Submission deadline: January 31st, 2026
