@@ -2,11 +2,12 @@
 
 ## List of Papers:
 
-1. 2025, Adebimpe et al., Current Research in Translational Medicine, 🟥 **Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.** <a href="ML-PD/2025_Current Research in Translational Medicine_Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.pdf">PDF</a> <a href="https://drive.google.com/file/d/1KdKbneSVtUdZclYTLOkh7iF5abe0n4FO/view?usp=sharing">Google Drive</a> 
+1. 2025, Iñigo Gabilondo et al., nPJ, 🟥 **From clinical criteria to ai based classification of advanced parkinsons disease a data driven approach using structured ppmi data** <a href="NC_Paper/22025, Iñigo Gabilondo, nPJ, From clinical criteria to ai based classification of advanced parkinsons disease a data driven approach using structured ppmi data.pdf">PDF</a> <a href="https://drive.google.com/file/d/1wcdzIbK83qwlGr_qK6ovxYgzKCnHZNlq/view?usp=sharing">Google Drive</a>
+2. 2025, Adebimpe et al., Current Research in Translational Medicine, **Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.** <a href="ML-PD/2025_Current Research in Translational Medicine_Explainable AI for Parkinson’s Disease Prediction A Machine Learning Approach with Interpretable Models.pdf">PDF</a> <a href="https://drive.google.com/file/d/1KdKbneSVtUdZclYTLOkh7iF5abe0n4FO/view?usp=sharing">Google Drive</a>
 
-2. 2024 Chang, Chia-Wen, et al. "__GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease__." Journal of Neurology (2024): 1-14. <a href="NC_Paper/2024_JournalOfneurology_GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease.pdf">PDF</a>
+3. 2024 Chang, Chia-Wen, et al. "__GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease__." Journal of Neurology (2024): 1-14. <a href="NC_Paper/2024_JournalOfneurology_GBA moderates cognitive reserve's effect on cognitive function in patients with Parkinson's disease.pdf">PDF</a>
 
-3. 2024, Ingoo Lee, et al., __A genotype-phenotype transformer to assess and explain polygenic risk__. biorxiv, <a href="NC_Paper/2024_biorxiv_Ingoo Lee_A genotype-phenotype transformer to assess and explain polygenic risk.pdf">PDF</a>
+4. 2024, Ingoo Lee, et al., __A genotype-phenotype transformer to assess and explain polygenic risk__. biorxiv, <a href="NC_Paper/2024_biorxiv_Ingoo Lee_A genotype-phenotype transformer to assess and explain polygenic risk.pdf">PDF</a>
 
 3. 2023 González-Usigli, Héctor Alberto, et al. "__Neurocognitive psychiatric and neuropsychological alterations in Parkinson’s disease: a basic and clinical approach__." Brain Sciences 13.3 (2023): 508. <a href="NC_Paper/2023_BrainScience_Neurocognitive Psychiatric and Neuropsychological Alterations in Parkinson’s Disease A Basic and Clinical Approach.pdf">PDF</a>
 
