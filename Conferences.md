@@ -6,13 +6,6 @@
 3. Paper submission site: https://meteor.springer.com/BICOB
 4. Conference Proceedings: accepted papers will be published in Springer (Springer CCIS series)
 
-## 2026 14th International Conference on Bioinformatics and Computational Biology (ICBCB 2026), Kitakyushu, Japan <a href="https://www.icbcb.org/index.html"> Important Dates Link </a>
-1. Submission Deadline: Oct. 30, 2025
-2. Notification Date: Nov. 20, 2025
-3. Camera-Ready Paper: Dec. 10, 2025
-4. Registration Deadline: Dec. 10, 2025
-5. Conference Dates: Mar. 26-29, 2026
-
 ## The 14th IEEE International Conference on Healthcare Informatics <a href="https://zhang-informatics.github.io/ICHI2026/"> Link </a>
 1. __June 1–4, 2026 · Minneapolis, MN__
 2. Submission deadline: January 31st, 2026
@@ -27,3 +20,12 @@
 3. Paper acceptance notification:	Nov 10, 2025
 4. Camera-ready manuscript due:	Nov 23, 2025
 5. Full-length paper (up to 8 page IEEE 2-column format)
+
+
+## 34th Conference on Intelligent System for Molecular Biology (ISMB 2026)
+1. __Workshop dates:	July 12 - 16, 2026__
+2. Paper submission deadline:	January 20, 2026
+3. Conditional acceptance notifications sent:	March 10, 2026
+4. Final acceptance notifications sent:	April 2, 2026
+5. Full-length paper (9 pages in length, template for author submission to the OUP journal Bioinformatics, <a href = "https://www.iscb.org/ismb2026/call-for-submissions/proceedings#guidelines"> Guideline </a>)
+https://www.iscb.org/ismb2026/call-for-submissions/proceedings
