@@ -29,3 +29,5 @@
 4. Final acceptance notifications sent:	April 2, 2026
 5. Full-length paper (9 pages in length, template for author submission to the OUP journal Bioinformatics, <a href = "https://www.iscb.org/ismb2026/call-for-submissions/proceedings#guidelines"> Guideline </a>)
 https://www.iscb.org/ismb2026/call-for-submissions/proceedings
+
+## https://chil.ahli.cc/submit/call-for-papers/
