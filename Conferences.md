@@ -1,5 +1,12 @@
 # Conference upcoming: <a href="https://www.isca-hq.org/isca.php?p=Conferences"> Link1 </a> <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187455"> Link2 </a>
 
+## 4th World Conference on Explainable Artificial Intelligence (<a href="https://xaiworldconference.com/2026/call-for-papers/"> Important Dates Link </a>)
+1. Easychair submission platform opening from	January, 1st, 2026
+2. Article upload deadline on submission platform (easy-chair)*:	February 1, 2026
+3. Paper bidding for reviewers	February 2-4, 2026
+4. Review submission deadlines for reviewers	February 20, 2026
+5. Notification of acceptance*:	February 22, 2026
+
 ## 18th International Conference on Bioinformatics and Computational Biology (BICOB'26), March 23 - 25, 2026, Honolulu, Hawaii, USA <a href="https://dcm.uhcl.edu/bicob26/"> Important Dates Link </a>
 1. Paper Submission Deadline: November 30, 2025 (extended December 31, 2025)
 2. Notification of Acceptance: January 20, 2026
