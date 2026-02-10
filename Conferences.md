@@ -3,6 +3,24 @@
 ## MCBIOS, Tampa,Florida, March 27-29 <a href="https://2026.mcbios.com/abstracts"> Link </a>
 1. Abstract: Application Deadline: February 17, 2026
 
+## GSAW, FIU, Monday, April 6, from 10:00AM- 2PM in the GC Ballrooms
+1. The deadline to submit is Monday, February 16, 2026 at 11:59PM.
+2. Email notification of abstract acceptance will be sent to the first author by March 6, 2026.
+3. The abstract describing your work should be no longer than 350 words and address the following sections, where applicable:
+  (1) Problem Statement;
+  (2) Research Objectives;
+  (3) Research Methodology;
+  (4) Results/Conclusions;
+  (5) Contribution/Significance;
+  (6) Broader Impacts.
+5. Poster size is limited to 36x48 inches
+6. 6 Award Categories:
+  Arts and Humanities
+  Health and Life Sciences
+  Physical Sciences
+  Engineering
+  Social and Behavioral Sciences
+
 ## 3MT, EC, FIU
 1. You nominate yourself by sending this slide to Sara-Michelle Lemus at slemus@fiu.edu by February 27th!
 2. Deadline: February 27th
