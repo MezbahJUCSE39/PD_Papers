@@ -3,6 +3,11 @@
 ## MCBIOS, Tampa,Florida, March 27-29 <a href="https://2026.mcbios.com/abstracts"> Link </a>
 1. Abstract: Application Deadline: February 17, 2026
 
+## 3MT, EC, FIU
+1. You nominate yourself by sending this slide to Sara-Michelle Lemus at slemus@fiu.edu by February 27th!
+2. Deadline: February 27th
+3. Competition then takes place on March 4th
+
 ## 18th International Conference on Bioinformatics and Computational Biology (BICOB'26), March 23 - 25, 2026, Honolulu, Hawaii, USA <a href="https://dcm.uhcl.edu/bicob26/"> Important Dates Link </a>
 1. Paper Submission Deadline: November 30, 2025 (extended December 31, 2025)
 2. Notification of Acceptance: January 20, 2026
