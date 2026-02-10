@@ -14,12 +14,7 @@
   (5) Contribution/Significance;
   (6) Broader Impacts.
 5. Poster size is limited to 36x48 inches
-6. 6 Award Categories:
-  Arts and Humanities
-  Health and Life Sciences
-  Physical Sciences
-  Engineering
-  Social and Behavioral Sciences
+6. 6 Award Categories: Arts and Humanities, Health and Life Sciences, Physical Sciences, __Engineering__, Social and Behavioral Sciences
 
 ## 3MT, EC, FIU
 1. You nominate yourself by sending this slide to Sara-Michelle Lemus at slemus@fiu.edu by February 27th!
