@@ -1,5 +1,12 @@
 # Conference upcoming: <a href="https://www.isca-hq.org/isca.php?p=Conferences"> Link1 </a> <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187455"> Link2 </a>
 
+## ICML 2026, Seoul, South Korea, July 6-11 <a href="https://icml.cc/Conferences/2026/CallForPapers"> Link </a>
+
+1. Submission site opens: January 8, 2026.
+2. Suggested OpenReview account creation deadline: January 8, 2026.
+3. Abstract submission deadline: January 23, 2026 AoE (Jan 24, 2026, 12 Noon UTC-0).
+4. Full paper submission deadline: January 28, 2026 AoE (Jan 29, 2026, 12 Noon UTC-0).
+   
 ## MCBIOS, Tampa,Florida, March 27-29 <a href="https://2026.mcbios.com/abstracts"> Link </a>
 1. Abstract: Application Deadline: February 17, 2026
 
