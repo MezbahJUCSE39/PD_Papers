@@ -5,15 +5,15 @@ Speech and language–based detection: LLMs and related NLP models classify PD f
 Linguistic features (e.g., action verb use, utterance errors, verbless utterances) distinguish PD from controls and between cognitive phenotypes (PD-MCI vs PD-nMCI) with AUC 75–85% 71019.
 An LLM (Gemma-2 9B) using patients’ own words achieved 98% accuracy in distinguishing ON vs OFF medication states and tracked neuropsychiatric fluctuations (ρ≈0.81 with clinical scores) 5.
 Speech audio models leveraging wav2vec 2.0 (a pre-trained language/audio model) reach ~98% cross‑validated accuracy for PD vs non‑PD from smartphone recordings 8.
-2. Treatment personalization and clinical decision support
+2. Treatment personalization and clinical decision support:
 An LLM-based framework that integrates patient narratives and guidelines, augmented with RAG, Chain-of-Thought, and Monte Carlo Tree Search, recommended medication regimens that reduced MDS‑UPDRS‑III motor scores by >1.4 points on average versus physician plans, and by 1.01 points versus RL methods 4.
 A multimodal diagnostic system combined CNN imaging plus a fine‑tuned “Mini ChatGPT‑4.0” LLM to generate patient-specific summaries and treatment suggestions, improving usability and interpretability for clinicians 1.
-3. Patient assessment, scales, and cohort/data infrastructure
+3. Patient assessment, scales, and cohort/data infrastructure:
 LLM-assisted frameworks can reconstruct structured MDS‑UPDRS item scores from free‑text self‑reports with ~95% accuracy 15.
 Zero‑shot LLMs extracted UPDRS‑III information from drug‑induced parkinsonism case reports with 90% agreement with manual ratings 17.
 Language-model embeddings harmonize variables across PD cohorts with >80–96% accuracy, supporting large‑scale data integration 11.
 GPT‑3.5–based pipelines structured 822 neuropathology reports with ~74% accuracy, approaching manual curation 13.
-4. Synthetic data and research support
+4. Synthetic data and research support:
 GPT‑4o can approximate symptom prevalence in synthetic PD diaries, but fails to capture realistic symptom correlations and narrative richness, limiting use to exploratory research unless domain‑tuned and carefully validated 14.
 ## Summary table: Where LLMs Are Used in PD
 
