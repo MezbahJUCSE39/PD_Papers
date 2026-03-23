@@ -1,6 +1,6 @@
 # Conference upcoming: <a href="https://www.isca-hq.org/isca.php?p=Conferences"> Link1 </a> <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187455"> Link2 </a>
 
-## The 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2-4 November 2026, Boca Raton FL, USA
+## The 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2-4 November 2026, Boca Raton FL, USA <a href="https://ictai.computer.org/2026/"> Link </a>
 1. Paper Submission:  June 30, 2026
 2. Paper Notification: September 10, 2026
 3. Camera Ready: September 25, 2026
