@@ -18,9 +18,12 @@ git push origin main
 
 Step 1:
 ssh -J misla093@wolf.cs.fiu.edu misla093@asterix.cs.fiu.edu
+
 SSH pearl.cs.fiu.edu
+
 Step 2: 
 Password: 
+
 Step 3:
 set prompt = “%”;
 
