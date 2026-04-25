@@ -5,8 +5,8 @@ PyTorch should be installed first, then PyTorch Geometric. PyTorch’s official 
 
 ## Option 1: Conda environment — recommended
 1. Create a new environment
-conda create -n gnn_pd python=3.10 -y
-conda activate gnn_pd
+2. conda create -n gnn_pd python=3.10 -y
+3. conda activate gnn_pd
 
 Check:
 
@@ -15,6 +15,7 @@ python --version
 You should see something like:
 
 Python 3.10.x
+
 2. Install PyTorch
 For CPU only
 
