@@ -14,4 +14,4 @@
 1. https://gitdiagram.com/ - Turn any GitHub repository into an interactive diagram for visualization.
 
 ## Article Graphics
-1. Napkin.ai - Turn an article to a visualization diagram
+1. [Napkin.ai](https://www.napkin.ai/) - Turn an article to a visualization diagram
