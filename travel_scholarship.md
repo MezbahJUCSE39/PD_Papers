@@ -5,7 +5,7 @@
 
 # Graduate Scholarship
 ## DF <a href="https://gradschool.fiu.edu/wp-content/uploads/2026/08/Spring-2027-DF-Guidelines.pdf"> Link </a>
-## NSF GRFP Information: NSF Graduate Research Fellowship Program
+## NSF GRFP Information: <a href ="https://www.nsf.gov/funding/initiatives/grfp?utm_source=chatgpt.com"> NSF Graduate Research Fellowship Program </a>
 1. 📅 GRFP Info Session: September 11, 2026
 2. 🕘 9:00 AM MT
 3. 🔗 Info Session: https://bit.ly/4qPsSvQ
