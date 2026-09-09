@@ -12,3 +12,6 @@
 
 ## Research Tools
 1. https://gitdiagram.com/ - Turn any GitHub repository into an interactive diagram for visualization.
+
+## Article Graphics
+1. Napkin.ai - Turn an article to a visualization diagram
