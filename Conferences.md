@@ -2,9 +2,11 @@
 
 ## IEEE BIBM 2026 <a href="https://www3.cs.stonybrook.edu/~bibm2026/"> Link </a>
 ## Workshop: AgIA4BioHealth: Agentic Artificial Intelligence for Bioinformatics and Health Informatics <a href="https://sites.google.com/unicz.it/agaihealth/home-page"> Link </a>
-## The First Workshop on Agentic Medical AI (AMAI 2026) <a href="https://sites.google.com/view/amai-workshop/"> Link </a>
-## Generative and Agentic AI with Knowledge Graphs for Explainable Healthcare Systems and Computational Biology (GAIK-XHealthBio) <a href
 1. Workshop paper submission due: Sep 27th, 2026
 2. Notification date: Oct 18th, 2026
 3. Camera-ready deadline: Nov 8th, 2026
+
+## ISMB 2027 Copenhagen <a href="https://www.iscb.org/ismbeccb2027/key-dates"> Dates </a>
+1. Thursday, April 8, 2027	Abstracts submission deadline (for talks and/or posters) (You have until 23:59 Anywhere on Earth) *no extensions*
+2. Thursday, January 14, 2027	Proceedings submission deadline (You have until 23:59 Anywhere on Earth) *no extensions*
 
