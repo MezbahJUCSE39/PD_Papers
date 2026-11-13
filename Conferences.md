@@ -11,6 +11,7 @@
 2. Thursday, January 14, 2027	Proceedings submission deadline (You have until 23:59 Anywhere on Earth) *no extensions*
 
 ## List of top conference from Amazon
-<img width="149" height="396" alt="image" src="https://github.com/user-attachments/assets/df51eb67-cc9c-4245-b2ed-0056c3b3f54a" />
+<img width="149" height="396" alt="image" src="https://github.com/user-attachments/assets/df51eb67-cc9c-4245-b2ed-0056c3b3f54a" /> <img width="149" height="396" alt="image" src="https://github.com/user-attachments/assets/601b5065-7878-4a72-a193-c1a5e872ec83" />
+
 
 
